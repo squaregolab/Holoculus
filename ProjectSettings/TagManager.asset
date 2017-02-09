@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Screen
+  - fin
+  - Balle1
+  - Balle2
+  - Balle3
+  - Balle4
+  - Balle5
+  - Balle6
+  - Balle7
+  - Balle8
+  - Balle9
+  - Balle10
+  - Balle11
+  - Balle12
+  - Balle13
+  - Balle14
+  - Balle15
+  - Balle16
+  - Balle17
+  - Balle18
+  - Balle19
+  - Balle20
+  - Balle21
+  - Balle22
+  - Balle23
+  - Balle24
+  - Balle25
+  - Balle26
+  - Balle27
+  - Balle28
+  - Balle29
+  - Balle30
+  - Balle31
+  - Balle32
+  - Balle33
+  - Balle34
+  - Balle35
+  - Balle36
+  - Balle37
+  - Balle38
+  - Balle39
+  - Balle40
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
